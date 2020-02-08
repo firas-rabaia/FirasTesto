@@ -1,0 +1,8 @@
+pl1 
+45
+pl2
+78
+omen 9750h
+1650
+1st- thermal throttiling & power limit 2208
+2nd- after trying adjusting pl1&pl2 didn't work with throttle stop and same score 
