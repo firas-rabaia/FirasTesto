@@ -6,8 +6,4 @@
 		<javac includeantruntime="false" srcdir="${srcCode}" destdir="${classCode}" />
 	</target>	
 
-
-
-
-
 </project>
