@@ -1,0 +1,13 @@
+<project>
+	<property name="srcCode" location="./FirasoTesto/Working Tree/src/pc_masterrace"/>
+	<property name="classCode" location="./targets" />
+	<target name="compile"> 
+		<mkdir dir="${classCode}" />
+		<javac includeantruntime="false" srcdir="${srcCode}" destdir="${classCode}" />
+	</target>	
+
+
+
+
+
+</project>
