@@ -1,5 +1,5 @@
 <project>
-	<property name="srcCode" location=".src/pc_masterrace"/>
+	<property name="srcCode" location="./src/pc_masterrace"/>
 	<property name="classCode" location="./targets" />
 	<target name="compile"> 
 		<mkdir dir="${classCode}" />
